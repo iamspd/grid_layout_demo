@@ -12,7 +12,7 @@
         android:layout_margin="4dp">
 
         <Button
-            android:id="@+id/btnHello"
+            android:id="@+id/hello"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_row="0"
@@ -25,7 +25,7 @@
             android:text="Hello" />
 
         <Button
-            android:id="@+id/btnHowAreYou"
+            android:id="@+id/howareyou"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_row="0"
@@ -38,7 +38,7 @@
             android:text="How are you?" />
 
         <Button
-            android:id="@+id/btnGoodEvening"
+            android:id="@+id/goodevening"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_row="1"
@@ -51,7 +51,7 @@
             android:text="Good Evening" />
 
         <Button
-            android:id="@+id/btnPlease"
+            android:id="@+id/please"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_row="1"
@@ -64,7 +64,7 @@
             android:text="Please" />
 
         <Button
-            android:id="@+id/btnMyNameIs"
+            android:id="@+id/mynameis"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_row="2"
@@ -77,7 +77,7 @@
             android:text="My Name Is" />
 
         <Button
-            android:id="@+id/btnDoYouSpeakEnglish"
+            android:id="@+id/doyouspeakenglish"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_row="2"
@@ -90,7 +90,7 @@
             android:text="Do You &#10; Speak English?" />
 
         <Button
-            android:id="@+id/btnWelcome"
+            android:id="@+id/welcome"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="onButtonTapped"
@@ -103,7 +103,7 @@
             android:text="Welcome" />
 
         <Button
-            android:id="@+id/btnILiveIn..."
+            android:id="@+id/ilivein"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_row="3"

@@ -19,9 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onButtonTapped(View view) {
 
-        int id = view.getId();
-
-        String myId = view.getResources().getResourceEntryName(id);
+        String myId = view.getResources().getResourceEntryName(view.getId());
 
         Log.i(TAG, myId);
 

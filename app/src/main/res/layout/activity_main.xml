@@ -81,7 +81,7 @@
             android:layout_columnWeight="1"
             android:layout_gravity="fill"
             android:layout_margin="4dp"
-            android:text="Do You Speak English?" />
+            android:text="Do You &#10; Speak English?" />
 
         <Button
             android:id="@+id/btnWelcome"
